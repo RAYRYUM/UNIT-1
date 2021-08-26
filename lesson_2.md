@@ -4,7 +4,7 @@ A markdown file is a text file with special formating. these files have extentio
 
 ## My first picture of the computer
 
-![](unamed.jpg)
+![](unnamed.jpg)
 
 **Fig. 1** My first try at drawing out a camputer
 
