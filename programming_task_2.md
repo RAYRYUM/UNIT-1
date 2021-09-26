@@ -8,3 +8,7 @@ keep doing so until it is <10
 
 
 N = input()
+t=0
+s=0
+while t=>10:
+  
