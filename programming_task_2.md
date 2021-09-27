@@ -8,7 +8,13 @@ keep doing so until it is <10
 
 
 N = input()
+mut=1
 t=0
 s=0
 while t=>10:
+  for l in N:
+  mut *= int(l)
+  t+=1
+print(t)
+      
   
