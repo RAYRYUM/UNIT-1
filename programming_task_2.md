@@ -6,7 +6,7 @@ use while loop to determine if the result is <10
 use string code in order to separate numbers
 keep doing so until it is <10
 
-
+```.py
 N = input()
 mut=1
 t=0
@@ -16,5 +16,5 @@ while t=>10:
   mut *= int(l)
   t+=1
 print(t)
-      
+```
   
