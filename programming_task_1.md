@@ -1,5 +1,6 @@
 Ask the user for  2 numbers, A and B, Output TRUE if one of them is 10 or if their sum is 10.
 
+```.py
 a=int(input())
 b=int(input())
 
@@ -9,5 +10,5 @@ elif a==10 and,or b==10:
   print("TRUE")
 else:
   print("FALSE")
-  
+```
  
