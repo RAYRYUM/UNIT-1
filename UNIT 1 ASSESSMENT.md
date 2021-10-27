@@ -1,3 +1,5 @@
+FIRST VERSION IS IN REPOSITORY UNDER THE NAME ; COMP.PY
+
 CRITERIA A [PLANNING] ;
 
 The owner of the local game shop is an enthusiast of classic computer games. He has been looking for a talented programmer that can help him revive his passion for text-based games. He has few requirements for this task:
