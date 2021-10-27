@@ -26,7 +26,7 @@ CRITERIA B [DESIGN/TESTING] ;
 
 [IN GAME MAP DESIGN]
 
-![](Photo on 27-10-2021 at 23.51.jpg)
+![](Photo on 27-10-2021 at 23.51.jpg) 
 
 [TESTING]
 
