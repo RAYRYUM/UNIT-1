@@ -28,24 +28,15 @@ CRITERIA B [DESIGN/TESTING] ;
 
 [IN GAME MAP DESIGN]
 
-![](Photo on 27-10-2021 at 23.51.jpg) 
+![](Photo on 27-10-2021 at 23.51.jpg)
 
 [TESTING]
 
-+-------------------------------------------+--------------+-------------------------------------------------------+--------------------+
-|           DESCRIPTION                     |   TYPE       |   INPUTS                                              |  EXPECTED OUTPUT   |
-+-------------------------------------------+--------------+-------------------------------------------------------+--------------------+
-| Testing the player's name record system   | UNIT TESTING | Run program ;                                         | your name          |
-|                                           |              | Print(Myplayer.name)                                  |                    |
-+-------------------------------------------+--------------+-------------------------------------------------------+--------------------+
-| Testing the player class database system  | UNIT TESTING | Run program ;                                         | data               |
-|                                           |              | Print(Myplayer.#whatever class data you would like# ) |                    |
-+-------------------------------------------+--------------+-------------------------------------------------------+--------------------+
-| Testing the timer                         | UNIT TESTING | Run program ;                                         | total playtime     |
-|                                           |              | Print(timer)                                          |                    |
-+-------------------------------------------+--------------+-------------------------------------------------------+--------------------+
-| Testing the score count                   | UNIT TESTING | Print(Myplayer.score)                                 | your in game score |
-+-------------------------------------------+--------------+-------------------------------------------------------+--------------------+
-| Player class data                         | INTERGRATION | Player_class                                          | info about player  |
-+-------------------------------------------+--------------+-------------------------------------------------------+--------------------+
+|           DESCRIPTION                     |   TYPE       |   INPUTS                                                            |  EXPECTED OUTPUT   |
+|-------------------------------------------|--------------|---------------------------------------------------------------------|--------------------|
+| Testing the player's name record system   | UNIT TESTING | Run program ;  Print(Myplayer.name)                                 | your name          |
+| Testing the player class database system  | UNIT TESTING | Run program ; Print(Myplayer.#whatever class data you would like# ) | data               |
+| Testing the timer                         | UNIT TESTING | Run program ; Print(timer)                                          | total playtime     |
+| Testing the score count                   | UNIT TESTING | Print(Myplayer.score)                                               | your in game score |
+| Player class data                         | INTERGRATION | Player_class                                                        | info about player  |
 
